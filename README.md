@@ -44,10 +44,10 @@ Este projeto foi criado para centralizar e visualizar os principais indicadores 
 
 ```
 📁 Dashboard-Vendas/
-├── 📊 dashboard_vendas_2026.pbix   
-├── 📄 vendas_topstore_v2.xlsx           
+├── 📝 README.md   
+├── 📊 Vendas.pbix           
 ├── 🖼️ dashboard_preview.png       
-└── 📝 README.md
+└── 📄 vendas_topstore_v2.xlsx
 ```
 
 ---
@@ -62,7 +62,7 @@ Siga os passos abaixo para executar o dashboard localmente:
   - Ou baixe o .zip diretamente pelo GitHub.
 
 ## 2. Abrir o projeto no Power BI
-  - Abra o arquivo dashboard_vendas_2026.pbix no Power BI Desktop
+  - Abra o arquivo Vendas.pbix no Power BI Desktop
 
 ## 3. Verificar conexão com os dados
   - O dashboard utiliza como fonte o arquivo vendas_topstore_v2.xlsx
